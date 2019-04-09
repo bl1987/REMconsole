@@ -1,0 +1,11 @@
+C:\Users\bl198\source\repos\RestaurantMng\bin\Debug\netcoreapp2.1\RestaurantMng.deps.json
+C:\Users\bl198\source\repos\RestaurantMng\bin\Debug\netcoreapp2.1\RestaurantMng.runtimeconfig.json
+C:\Users\bl198\source\repos\RestaurantMng\bin\Debug\netcoreapp2.1\RestaurantMng.runtimeconfig.dev.json
+C:\Users\bl198\source\repos\RestaurantMng\bin\Debug\netcoreapp2.1\RestaurantMng.dll
+C:\Users\bl198\source\repos\RestaurantMng\bin\Debug\netcoreapp2.1\RestaurantMng.pdb
+C:\Users\bl198\source\repos\RestaurantMng\obj\Debug\netcoreapp2.1\RestaurantMng.csprojAssemblyReference.cache
+C:\Users\bl198\source\repos\RestaurantMng\obj\Debug\netcoreapp2.1\RestaurantMng.csproj.CoreCompileInputs.cache
+C:\Users\bl198\source\repos\RestaurantMng\obj\Debug\netcoreapp2.1\RestaurantMng.AssemblyInfoInputs.cache
+C:\Users\bl198\source\repos\RestaurantMng\obj\Debug\netcoreapp2.1\RestaurantMng.AssemblyInfo.cs
+C:\Users\bl198\source\repos\RestaurantMng\obj\Debug\netcoreapp2.1\RestaurantMng.dll
+C:\Users\bl198\source\repos\RestaurantMng\obj\Debug\netcoreapp2.1\RestaurantMng.pdb
